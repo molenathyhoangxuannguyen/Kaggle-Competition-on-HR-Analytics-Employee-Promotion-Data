@@ -1,4 +1,4 @@
-# HR Analytics: Employee Promotion Data
+# Kaggle Competition on HR Analytics Employee Promotion Data
 
 Data:
 
